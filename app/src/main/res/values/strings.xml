@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">The Book Bank</string>
+
+    <string name="harry">Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter,
+        and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. </string>
+
+    <string name="kite">The Kite Runner is the first novel by Afghan-American author Khaled Hosseini.[1] Published in 2003 by Riverhead Books, it tells the story of Amir,
+        a young boy from the Wazir Akbar Khan district of Kabul.</string>
+
+    <string name="amma">Amma is not a book written just about his mother. Among the story is the story of the author who moved to Colombo and from a rural village in Haputhale. The book is written in a different format. Such books are limited in modern Sinhala literature. I recommend reading this book to young people as a motivational story. The book is more than four hundred pages long,
+        but reading it was very interesting.</string>
+
+    <string name="gam">Gamperaliya (The Transformation of a Village) is a novel written by Sri Lankan writer Martin Wickremasinghe and first published in 1944. ... Gamperaliya is considered to be one of Wickremasinghe.</string>
+
+
+    <string name="madol">Madol Doova is a childrens novel story written by Sri Lankan writer Martin Wickramasinghe and its first published in 1947. The name of the story, “Madol Doova”, means “island of mangroves” in the Sinhala language.</string>
+
+
+    <string name="village">The Village by the Sea: an Indian family story is a novel for young people by the Indian writer Anita Desai, published in London by Heinemann in 1982. It is based on the poverty, hardships and sorrow faced by a small rural, community in India.</string>
+    <string name="view">view</string>
+
+
+</resources>
