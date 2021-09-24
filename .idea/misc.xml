@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_admin_log.xml" value="0.2" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_admin_reg.xml" value="0.2" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_admin_view_profile.xml" value="0.20364583333333333" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_book.xml" value="0.2234375" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_infoact.xml" value="0.264" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_lib_book.xml" value="0.2234375" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_login.xml" value="0.203125" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_profile_view.xml" value="0.2" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_sam.xml" value="0.20364583333333333" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_sum.xml" value="0.2" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/activity_user_profile.xml" value="0.20364583333333333" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/borrow_layout.xml" value="0.536" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/listitem.xml" value="0.264" />
+        <entry key="..\:/1 . B . year 2/Semester 2/4 . MAD/Project/Androidstudio/MAD/app/src/main/res/layout/sample.xml" value="0.20364583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

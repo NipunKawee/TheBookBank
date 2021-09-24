@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MAD</string>
+
+    <string name="jane">Author: Charlotte Brontë</string>
+
+
+    <string name="hathpana">Author: Kumarathunga Munidasa</string>
+    <string name="hathpana2">Jane Eyre is a novel written by Charlotte Brontë in 1847. The novel follows the story of Jane, a seemingly plain and simple girl as she battles through life s struggles. Jane has many obstacles in her life her cruel and abusive Aunt Reed, the grim conditions at Lowood school, her love for Rochester and Rochester s marriage to Bertha. However, Jane overcomes these obstacles through her determination, sharp wit and courage.</string>
+    <string name="hyperlink"><a href="https://www.planetebook.com/free-ebooks/jane-eyre.pdf">READ NOW</a></string>
+
+    <string name="houseofsecrets">Authors: Ned Vizzini, Chris Columbus</string>
+
+
+    <string name="bondamedum">Author: Sujeewa Prasanna Arachchi</string>
+
+
+    <string name="buddhist2">Author: Mathugama Mahinda Vijethilaka </string>
+
+
+    <string name="oliver">Author: Charles Dickens</string>
+
+
+    <string name="amma">Author: Maxim Gorki</string>
+
+
+    <string name="kudahora">Author: Sibil weththasinha</string>
+
+    <string name="hamilton">Author: Ron Chernow </string>
+
+
+</resources>
