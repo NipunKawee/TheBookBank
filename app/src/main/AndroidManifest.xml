@@ -9,6 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TheBookBank">
+        <activity
+            android:name=".AboutUs"
+            android:exported="true" />
+        <activity
+            android:name=".Feedback"
+            android:exported="true" />
+        <activity android:name=".PaymentDetails">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".EnterOrderID">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,13 +30,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".EnterMemberID">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity android:name=".PaymentDetails">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
